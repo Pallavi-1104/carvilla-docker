@@ -9,7 +9,7 @@ RUN rm -rf /var/www/html/index.html
 
 WORKDIR /var/www/html
 
-COPY carvilla-v1.0 /var/www/html
+COPY 2127_little_fashion /var/www/html
 
 EXPOSE 80
 
